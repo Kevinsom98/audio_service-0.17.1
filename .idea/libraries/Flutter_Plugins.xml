@@ -1,6 +1,14 @@
 <component name="libraryTable">
   <library name="Flutter Plugins" type="FlutterPluginsLibraryType">
-    <CLASSES />
+    <CLASSES>
+      <root url="file://$USER_HOME$/Desktop/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_linux-2.0.2" />
+      <root url="file://$USER_HOME$/Desktop/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_windows-2.0.3" />
+      <root url="file://$PROJECT_DIR$" />
+      <root url="file://$USER_HOME$/Desktop/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider-2.0.3" />
+      <root url="file://$USER_HOME$/Desktop/flutter/.pub-cache/hosted/pub.dartlang.org/sqflite-2.0.0+4" />
+      <root url="file://$USER_HOME$/Desktop/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_isolate-2.0.0" />
+      <root url="file://$USER_HOME$/Desktop/flutter/.pub-cache/hosted/pub.dartlang.org/audio_session-0.1.6" />
+    </CLASSES>
     <JAVADOC />
     <SOURCES />
   </library>
